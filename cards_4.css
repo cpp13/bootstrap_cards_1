@@ -1,12 +1,29 @@
-.btn-custom1{
-    background-color: #347dad;
-    color: white;
-    /* border: none; */
-    /* border-radius: 30px; */
-    /* padding: 10px 25px; */
+.btn-custom1 {
+  background-color: #347dad;
+  color: white;
 }
 
-.btn-custom1:hover{
-    background-color: #3f86b6;
+.btn-custom1:hover {
+  background-color: #3f86b6;
+  color: white;
+}
+
+.btn-custom2 {
+  background-color: #513399;
+  color: white;
+}
+
+.btn-custom2:hover {
+  background-color: #593c9e;
+  color: white;
+}
+
+.btn-custom4{
+    background-color: #dcad3f;
+    color: white;
+}
+
+.btn-custom4:hover{
+    background-color: #e7b642;
     color: white;
 }
